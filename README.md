@@ -64,4 +64,3 @@ Smart Gov is a web application designed specifically for the people of Andhra Pr
   - AI Model: Meta's Llama 3.2 70B (for natural language processing and intelligent responses).
   - Database: Local vector store for fast data retrieval.
   - Email Service: For sending scheme notifications to users' email addresses(not fully included ).
->>>>>>> 72da4cb (commit on project evaluation)
