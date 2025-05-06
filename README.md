@@ -1,5 +1,5 @@
 ##ProjectTitle:
-SmartGov_Schemes_Recomendation_System \n
+SmartGov_Schemes_Recomendation_System
 ##Author:
 Sarevalasa Venkata Rama Sai Bharath Kumar
 ##GitHub Repository:
